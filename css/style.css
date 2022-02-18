@@ -1,0 +1,52 @@
+table,
+td,
+th {
+    border: 1px solid #888;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+.flag {
+    height: 25px;
+}
+
+td,
+th {
+    padding: 5px
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.gold {
+background-color: gold;
+}
+
+.silver {
+    background-color: silver;
+}
+
+.bronze {
+    background-color: #cd7f32;
+}
+main{
+background-color: rgba(255, 254, 254, 0.603);
+margin-left: 15%;
+margin-right: 15%;
+padding: 10px;
+}
+body{
+background: #bfd4ff;
+}
